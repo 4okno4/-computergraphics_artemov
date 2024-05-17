@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1715924910 source:c:\users\stud\desktop\lab6\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<iostream>
+	<math.h>
+
+1715924910 c:\users\stud\desktop\lab6\camera.h
+
+1715924910 source:c:\users\stud\desktop\lab6\light.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+
+1715927652 source:c:\users\stud\desktop\lab6\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"camera.h"
+	"light.h"
+
+1715924910 c:\users\stud\desktop\lab6\light.h
+
