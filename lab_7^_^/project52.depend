@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1715423554 source:c:\users\dawid\onedrive\Рабочий стол\123123\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+	<iostream>
+
+1713523972 c:\users\dawid\onedrive\Рабочий стол\123123\camera.h
+
+1716316311 source:c:\users\dawid\onedrive\Рабочий стол\123123\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"camera.h"
+
