@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1683079173 source:c:\users\profile\desktop\lab5_cg\lab_5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"camera.h"
+
+1683079186 c:\users\profile\desktop\lab5_cg\lab_5\camera.h
+
+1683079196 source:c:\users\profile\desktop\lab5_cg\lab_5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+
+1683079196 source:c:\users\profile\desktop\cg\lab5_cg\lab_5\camera.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+
+1683338236 source:c:\users\profile\desktop\cg\lab5_cg\lab_5\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"camera.h"
+
+
+1715426515 source:c:\users\dawid\onedrive\Рабочий стол\computergraphics-main\lab7\light.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+
+1716394807 source:c:\users\dawid\onedrive\Рабочий стол\computergraphics-main\lab7\main.cpp
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<iostream>
+	"camera.h"
+	"light.h"
+
+1715426515 c:\users\dawid\onedrive\Рабочий стол\computergraphics-main\lab7\light.h
+
